@@ -26,8 +26,8 @@ const navText = `
       </a>
     </li>
   </ul>
-  </li>
-  <li class="nav-item dropdown">
+</li>
+<li class="nav-item dropdown">
   <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     資訊
   </a>
@@ -48,7 +48,20 @@ const navText = `
       </a>
     </li>
   </ul>
-</li>`
+</li>
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    總務
+  </a>
+  <ul class="dropdown-menu">
+    <li>
+      <a class="dropdown-item" href="consignment.html">
+        物品託運與借用
+      </a>
+    </li>
+  </ul>
+</li>
+`
 
 function loadNavbar() {
   navbar.innerHTML = navText;
