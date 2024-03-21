@@ -42,6 +42,11 @@ const navText = `
         EIP系統
       </a>
     </li>
+    <li>
+      <a class="dropdown-item" href="blueStar.html">
+        藍星金流
+      </a>
+    </li>
   </ul>
 </li>`
 
