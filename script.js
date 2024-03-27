@@ -25,6 +25,11 @@ const navText = `
         物品申請單
       </a>
     </li>
+    <li>
+      <a class="dropdown-item" href="salary.html">
+        臨時薪資單
+      </a>
+    </li>
   </ul>
 </li>
 <li class="nav-item dropdown">
