@@ -30,6 +30,11 @@ const navText = `
         臨時薪資單
       </a>
     </li>
+    <li>
+      <a class="dropdown-item" href="shift.html">
+        人員排班表
+      </a>
+    </li>
   </ul>
 </li>
 <li class="nav-item dropdown">
@@ -72,6 +77,18 @@ const navText = `
     <li>
       <a class="dropdown-item" href="consignment.html">
         物品託運與借用
+      </a>
+    </li>
+  </ul>
+</li>
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    水陸法會
+  </a>
+  <ul class="dropdown-menu">
+    <li>
+      <a class="dropdown-item" href="event.html">
+        水陸法會文件
       </a>
     </li>
   </ul>
