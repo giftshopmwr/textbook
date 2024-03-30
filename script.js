@@ -43,6 +43,11 @@ const navText = `
       </a>
     </li>
     <li>
+      <a class="dropdown-item" href="pos.html">
+        POS系統
+      </a>
+    </li>
+    <li>
       <a class="dropdown-item" href="eip.html">
         EIP系統
       </a>
